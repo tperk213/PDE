@@ -1,0 +1,10 @@
+# Lines configured by zsh-newuser-install
+HISTFILE=~/.histfile
+HISTSIZE=1000
+SAVEHIST=1000
+setopt autocd extendedglob
+bindkey -v
+# End of lines configured by zsh-newuser-install
+
+plugins=( git git-prompt lighthouse zsh-completions zsh-autosuggestions zsh-syntax-highlighting )
+unsetopt beep

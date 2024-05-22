@@ -1,0 +1,10 @@
+
+RC
+README.md
+gcc
+jq
+msys2
+nvim-win64
+programs.txt
+tmux
+zsh
